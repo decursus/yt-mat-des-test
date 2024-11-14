@@ -1,3 +1,5 @@
+***The theme is no longer updated due to lack of time and project relevance***
+
 # YouTube Redesign
 Simplified theme redesign for YouTube :smile:.
 
